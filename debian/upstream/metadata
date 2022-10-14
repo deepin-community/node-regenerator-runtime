@@ -1,0 +1,4 @@
+Bug-Database: https://github.com/facebook/regenerator/issues
+Bug-Submit: https://github.com/facebook/regenerator/issues/new
+Repository: https://github.com/facebook/regenerator.git [packages/regenerator-runtime]
+Repository-Browse: https://github.com/facebook/regenerator [packages
